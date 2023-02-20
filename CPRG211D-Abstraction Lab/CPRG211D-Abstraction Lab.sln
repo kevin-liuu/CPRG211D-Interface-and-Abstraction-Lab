@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPRG211D-Abstraction Lab", "CPRG211D-Abstraction Lab\CPRG211D-Abstraction Lab.csproj", "{09511C93-BC67-4FAB-A30F-923853AADBFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09511C93-BC67-4FAB-A30F-923853AADBFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09511C93-BC67-4FAB-A30F-923853AADBFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09511C93-BC67-4FAB-A30F-923853AADBFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09511C93-BC67-4FAB-A30F-923853AADBFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66727FF2-C527-4FD3-9E8F-ADFD541BE36B}
+	EndGlobalSection
+EndGlobal
